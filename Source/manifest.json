@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt Plus",
+	"name": "The/My Fucking",
 	"version": "1.2",
-	"description": "Replaces the text 'the cloud' with 'my butt', as well as 'cloud' with 'butt' in certain contexts.",
+	"description": "Changes the text 'The' to 'The fucking' and 'My' to 'My Fucking'",
 	"content_scripts": 
 	[
 		{
